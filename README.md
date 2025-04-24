@@ -12,3 +12,4 @@
 
 
 ![Snake animation](https://github.com/hessafa/hessafa/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/hessafa/hessafa/output/github-contribution-grid-snake.svg" />
