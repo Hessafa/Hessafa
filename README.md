@@ -13,3 +13,9 @@
 
 ![Snake animation](https://github.com/hessafa/hessafa/blob/output/github-contribution-grid-snake.svg)
 <img src="https://raw.githubusercontent.com/hessafa/hessafa/output/github-contribution-grid-snake.svg" />
+
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
