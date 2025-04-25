@@ -27,3 +27,4 @@
   <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/assets/github-graph.gif?raw=true" width="500"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer" />
