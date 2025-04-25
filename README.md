@@ -23,8 +23,28 @@ I’m passionate about building meaningful, tech-driven solutions at the interse
   <br>
 <img src= "https://www.iconsdb.com/icons/preview/pink/light-bulb-2-xxl.png" alt="Upload" width="20"/> Project Management & Digital Transformation
  <br>
+ ### Let’s Connect!
+I’m always open to collaborations, mentorship, or just exchanging ideas over cool tech stuff.  
 
- <img src="https://anperc.kaust.edu.sa/images/default-source/default/kaust_logo_full.png?sfvrsn=81dafef9_0" width="130"> <img src="https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-h.png" width="130"> <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" width="130">  <img src="https://thewealthmosaic.s3.amazonaws.com/media/Logo_IBM_3.png" width="95"> 
+<!-- GitHub (Baby Pink) -->
+<a href="https://github.com/hessafa" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/f7c2d1/github.png" alt="GitHub" width="30"/>
+</a>
+
+<!-- Slack (Baby Purple) -->
+<a href="https://holberton-school-org.slack.com/team/U08C2K6KPMW" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/d6aefb/slack.png" alt="Slack" width="30"/>
+</a>
+
+<!-- LinkedIn (Baby Pink) -->
+<a href="https://www.linkedin.com/in/hessa-f" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/f7c2d1/linkedin.png" alt="LinkedIn" width="30"/>
+</a>
+
+<!-- Email (Baby Purple) -->
+<a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/d6aefb/email.png" alt="Email" width="30"/>
+</a>
 
 ---
 
@@ -32,9 +52,15 @@ I’m passionate about building meaningful, tech-driven solutions at the interse
 <img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" alt="Upload" width="25"/> Learning low-level programming with C, and building powerful backend logic with Python  
 <br ><img src="https://camo.githubusercontent.com/8da28fcf6c31fadb909a24f4da35f9d6d12cc5f98c404571eb3f1ddae49cfe66/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732f35302f6136633866662f636861742e706e67" alt="Upload" width="25"/>Exploring how AI can enhance diagnostics, bioinformatics, and patient-centered care
 <br>
-<img src="https://camo.githubusercontent.com/4ff0565619ff501b7d29b4b9cf45f5878a01352f1ea2f37a6b146d8f4d7a00b1/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732f35302f6436616566622f636f6d70757465722e706e67" alt="Upload" width="25"/> Strengthening my understanding of data, analytics, and how tech empowers smarter decisions  <br>
+
+<img src="https://camo.githubusercontent.com/4ff0565619ff501b7d29b4b9cf45f5878a01352f1ea2f37a6b146d8f4d7a00b1/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732f35302f6436616566622f636f6d70757465722e706e67" alt="Upload" width="25"/> Strengthening my understanding of data, analytics, and how tech empowers smarter decisions 
+<br>
 <img src="https://camo.githubusercontent.com/a79bedf0c9fd0c86bbfae2d041905828c18d5623f6e6c65014701d91a4bc06bb/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732f35302f6637633264312f696e7465726e65742e706e67" alt="Upload" width="25"/>Building my first open-source projects — focused on real-world impact in health and tech
 
+
+
+ <img src="https://anperc.kaust.edu.sa/images/default-source/default/kaust_logo_full.png?sfvrsn=81dafef9_0" width="130">  <img src="https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-h.png" width="130"> <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" width="130"> 
+ <img src="https://thewealthmosaic.s3.amazonaws.com/media/Logo_IBM_3.png" width="95"> 
 ---
 
 ### Why This Path?
@@ -60,30 +86,6 @@ Now, I’m combining both to create systems that are **smart, scalable, and huma
 I'm on a mission to contribute to a smarter, healthier world — one project at a time.  
 Whether it's optimizing data pipelines, building intelligent health apps, or collaborating on research tools — I'm here to **build with impact**.
 
----
-
-### Let’s Connect!
-I’m always open to collaborations, mentorship, or just exchanging ideas over cool tech stuff.  
-
-<!-- GitHub (Baby Pink) -->
-<a href="https://github.com/hessafa" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/f7c2d1/github.png" alt="GitHub" width="30"/>
-</a>
-
-<!-- Slack (Baby Purple) -->
-<a href="https://holberton-school-org.slack.com/team/U08C2K6KPMW" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/d6aefb/slack.png" alt="Slack" width="30"/>
-</a>
-
-<!-- LinkedIn (Baby Pink) -->
-<a href="https://www.linkedin.com/in/hessa-f" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/f7c2d1/linkedin.png" alt="LinkedIn" width="30"/>
-</a>
-
-<!-- Email (Baby Purple) -->
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/d6aefb/email.png" alt="Email" width="30"/>
-</a>
 
 ---
 
