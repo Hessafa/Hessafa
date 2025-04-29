@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hussah!;Engineer+by+Training,+Innovator+by+Heart.;Exploring+AI+%7C+HealthSloutions+%7C+Business+Tech&center=true&width=500&height=50&color=6C63FF&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hussah!;Engineer+by+Training,+Innovator+by+Heart.;Exploring+AI+%7C+TechSloutions+%7C&center=true&width=500&height=50&color=6C63FF&size=22" />
 </p>
 
 <imge src ="https://github.com/user-attachments/assets/d52cc843-ec3b-4172-939e-6844e963e131" width="70" height="70">
@@ -60,7 +60,7 @@ I’m always open to collaborations, mentorship, or just exchanging ideas over c
 
 
  <img src="https://anperc.kaust.edu.sa/images/default-source/default/kaust_logo_full.png?sfvrsn=81dafef9_0" width="130">  <img src="https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-h.png" width="130"> <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" width="130"> 
- <img src="https://thewealthmosaic.s3.amazonaws.com/media/Logo_IBM_3.png" width="95"> 
+ <img src="https://thewealthmosaic.s3.amazonaws.com/media/Logo_IBM_3.png" width="95">  <img src="https://www.imprivata.com/sites/imprivata/files/2024-09/cisco_logo.png" width="95"> 
 ---
 
 ### Why This Path?
@@ -70,7 +70,21 @@ Now, I’m combining both to create systems that are **smart, scalable, and huma
 
 ---
 
-### Tools I Have Used and Learned<:
+### What I’m Building Toward:
+I'm on a mission to contribute to a smarter, healthier world — one project at a time.  
+Whether it's optimizing data pipelines, building intelligent health apps, or collaborating on research tools — I'm here to **build with impact**.
+I believe technology becomes magical when it’s **human-centered** — and that’s where I love to work. 
+
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/assets/github-graph.gif?raw=true" width="500"/>
+
+
+
+
+---
+  
+### Tools I Have Used and Learned:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hessafa&layout=compact&theme=default&hide_border=true)
 
@@ -80,30 +94,9 @@ Now, I’m combining both to create systems that are **smart, scalable, and huma
 <img src="https://github.com/user-attachments/assets/9c8d26cc-db32-4a75-ac04-f941c7a910f7" alt="Git" width="30"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/> 
 
----
-
-### What I’m Building Toward:
-I'm on a mission to contribute to a smarter, healthier world — one project at a time.  
-Whether it's optimizing data pipelines, building intelligent health apps, or collaborating on research tools — I'm here to **build with impact**.
-
-
----
-
-### 💬 Fun Fact:
-I believe technology becomes magical when it’s **human-centered** — and that’s where I love to work. 
-
-
-
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/assets/github-graph.gif?raw=true" width="500"/>
-
-
-
-
-
-
-
-
-
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FuZjd6aXF1aWduZmxjb3ZuYnZrY2lwZHNvc2FxMTZsMzY2NnF5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FAz3UISFe2dkufI3s1/giphy.gif" width="150"> ![Visitor Count](https://komarev.com/ghpvc/?username=hessafa&color=orange) 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FuZjd6aXF1aWduZmxjb3ZuYnZrY2lwZHNvc2FxMTZsMzY2NnF5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FAz3UISFe2dkufI3s1/giphy.gif" width="150" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=hessafa&color=orange" alt="Visitor Count"/>
+</p>
