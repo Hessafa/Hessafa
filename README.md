@@ -1,9 +1,9 @@
 
 <p align="center">
  
-![84da6157aa266d44c34748f42c1499b8](https://github.com/user-attachments/assets/bba23fbb-5779-4c64-a122-707624f1fac6)
+ ![static-assets-upload14634766347587984366](https://github.com/user-attachments/assets/604e6f60-b890-466c-8b42-9882312cc207)
 
-  
+ 
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hussah!;Engineer+by+Training,+Innovator+by+Heart.;Exploring+AI+%7C+TechSloutions+%7C&center=true&width=500&height=50&color=6C63FF&size=22" />
 </p>
 
