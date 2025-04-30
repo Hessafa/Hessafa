@@ -76,16 +76,7 @@ I’m passionate about building meaningful, tech-driven solutions at the interse
 ---
 
 ### Why This Path?
-With a foundation in **medical sciences**, I deeply understand the **human side** of problems.  
-With my training in **IT and software engineering**, I’m gaining the tools to solve them.  
-Now, I’m combining both to create systems that are **smart, scalable, and human-focused.**
-
----
-
-### What I’m Building Toward:
-I'm on a mission to contribute to a smarter, healthier world — one project at a time.  
-Whether it's optimizing data pipelines, building intelligent health apps, or collaborating on research tools — I'm here to **build with impact**.
-I believe technology becomes magical when it’s **human-centered** — and that’s where I love to work. 
+With a foundation in medical sciences, I deeply understand the human side of problems. Through my training in IT and software engineering, I’m gaining the tools to solve them. Now, I’m combining both to create systems that are smart, scalable, and human-focused — all in service of a smarter, healthier world. Whether it’s optimizing data pipelines, building intelligent health apps, or collaborating on research tools, I’m here to build with impact. I believe technology becomes truly magical when it’s human-centered — and that’s exactly where I love to work.
 
 
 <p align="center">
@@ -112,7 +103,3 @@ I believe technology becomes magical when it’s **human-centered** — and that
   <br/>
   <img src="https://komarev.com/ghpvc/?username=hessafa&color=orange" alt="Visitor Count"/>
 </p>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=speech&height=100&color=gradient&text=&textBg=false&fontAlign=31&fontAlignY=44&descAlign=23&fontSize=50" />
