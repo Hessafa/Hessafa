@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&height=100&color=gradient&text=&textBg=false&fontAlign=31&fontAlignY=44&descAlign=23&fontSize=50" />
-
 
 <p align="center">
+  
+![4ded3483aa11970395144db5091df695](https://github.com/user-attachments/assets/46511e36-0a07-4830-92e7-46ab77bc714e)
+
+  
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hussah!;Engineer+by+Training,+Innovator+by+Heart.;Exploring+AI+%7C+TechSloutions+%7C&center=true&width=500&height=50&color=6C63FF&size=22" />
 </p>
 
