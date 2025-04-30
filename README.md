@@ -1,30 +1,18 @@
 
 <p align="center">
  
- ![static-assets-upload14634766347587984366](https://github.com/user-attachments/assets/604e6f60-b890-466c-8b42-9882312cc207)
+![nprhx6w5y-bannerferris-gif-7z58xh](https://github.com/user-attachments/assets/2db23a9b-d36c-4c5d-be20-cd283e259bdb)
+
 
  
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hussah!;Engineer+by+Training,+Innovator+by+Heart.;Exploring+AI+%7C+TechSloutions+%7C&center=true&width=500&height=50&color=6C63FF&size=22" />
 </p>
 
 <imge src ="https://github.com/user-attachments/assets/d52cc843-ec3b-4172-939e-6844e963e131" width="70" height="70">
-
-# <img src="https://www.iconsdb.com/icons/preview/pink/badge-xxl.png" alt="Upload" width="30"/> About me
-
-A Medical Sciences graduate with an IT diploma, now diving deep into the world of software engineering through the **Holberton program by Tuwaiq Academy.**
-
-I’m passionate about building meaningful, tech-driven solutions at the intersection of **healthcare Solutions, data, and innovation**.
-
- ### Interests include:
  
- <img src="https://camo.githubusercontent.com/d73ef820d997acabc0c6d1965e68729edc04fa0cf6c0ef79c2e66353016678ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732f35302f6637633264312f726f626f742e706e67" alt="Upload" width="20"/> Artificial Intelligence & Machine Learning
- <br>
-<img src= "https://www.iconsdb.com/icons/preview/pink/dna-helix-xxl.png" alt="Upload" width="20"/> Bioinformatics & Digital Health
- <br>
- <img src= "https://www.iconsdb.com/icons/preview/pink/analytics-xxl.png" alt="Upload" width="20"/> Business Analytics
-  <br>
-<img src= "https://www.iconsdb.com/icons/preview/pink/light-bulb-2-xxl.png" alt="Upload" width="20"/> Project Management & Digital Transformation
- <br>
+
+<div align="center">
+ 
  ### Let’s Connect!
 I’m always open to collaborations, mentorship, or just exchanging ideas over cool tech stuff.  
 
@@ -47,6 +35,28 @@ I’m always open to collaborations, mentorship, or just exchanging ideas over c
 <a href="mailto:your.email@example.com" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/d6aefb/email.png" alt="Email" width="30"/>
 </a>
+
+</div>
+
+-----
+
+# <img src="https://www.iconsdb.com/icons/preview/pink/badge-xxl.png" alt="Upload" width="30"/> About me
+
+A Medical Sciences graduate with an IT diploma, now diving deep into the world of software engineering through the **Holberton program by Tuwaiq Academy.**
+
+I’m passionate about building meaningful, tech-driven solutions at the intersection of **healthcare Solutions, data, and innovation**.
+
+
+ ### Interests include:
+ 
+ <img src="https://camo.githubusercontent.com/d73ef820d997acabc0c6d1965e68729edc04fa0cf6c0ef79c2e66353016678ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732f35302f6637633264312f726f626f742e706e67" alt="Upload" width="20"/> Artificial Intelligence & Machine Learning
+ <br>
+<img src= "https://www.iconsdb.com/icons/preview/pink/dna-helix-xxl.png" alt="Upload" width="20"/> Bioinformatics & Digital Health
+ <br>
+ <img src= "https://www.iconsdb.com/icons/preview/pink/analytics-xxl.png" alt="Upload" width="20"/> Business Analytics
+  <br>
+<img src= "https://www.iconsdb.com/icons/preview/pink/light-bulb-2-xxl.png" alt="Upload" width="20"/> Project Management & Digital Transformation
+ <br>
 
 ---
 
@@ -102,3 +112,7 @@ I believe technology becomes magical when it’s **human-centered** — and that
   <br/>
   <img src="https://komarev.com/ghpvc/?username=hessafa&color=orange" alt="Visitor Count"/>
 </p>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=speech&height=100&color=gradient&text=&textBg=false&fontAlign=31&fontAlignY=44&descAlign=23&fontSize=50" />
