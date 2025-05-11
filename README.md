@@ -17,7 +17,6 @@
 <div align="center">
 
 
-  <img src="https://github.com/user-attachments/assets/34c1e5af-19a3-4f25-aa67-1c2bd8200b0e" alt="h" width="200"/> <img src="https://github.com/user-attachments/assets/2f84ee68-4c76-4319-ace6-ec12f5554dbd" width="200"/>
   
   <div align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d0dG81c256bjBwZ2t2OGFjZ3MyczNla2tpbnUzcjg2bWFweHhtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWXs6QfaYCVLVXantf/giphy.gif" width="50"/>
